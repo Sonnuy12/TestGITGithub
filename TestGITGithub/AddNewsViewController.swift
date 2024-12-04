@@ -11,6 +11,6 @@ class AddNewsViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("Новость добалена")
+        print("Текущая новость добалена")
     }
 }
