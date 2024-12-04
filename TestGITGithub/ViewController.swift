@@ -8,14 +8,12 @@
 import UIKit
 
 class ViewController: UIViewController {
-    
-//MARK: - variable
-    var text: String = "Внесли первые изменения"
-    
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print(text)
+        // Do any additional setup after loading the view.
     }
+
+
 }
 
